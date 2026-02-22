@@ -25,6 +25,11 @@ I tracked my study hours and knowledge gain in a CSV file and turned it into thi
 ---
 
 ## 💻 My Setup
+
+### 📈 Bar Chart View
+I added a bar chart to get a different perspective on my daily growth. This helps to compare each day's progress more clearly.
+
+![Bar Chart](./02_Data_Science_Basics/learning_bar_chart.png)
 * **Language**: Python 3.14+
 * **Tools**: VS Code, PowerShell
 * **Libraries**: Pandas, Matplotlib, NumPy
