@@ -34,5 +34,11 @@ I added a bar chart to get a different perspective on my daily growth. This help
 * **Tools**: VS Code, PowerShell
 * **Libraries**: Pandas, Matplotlib, NumPy
 
+### 🍕 Topic-wise Progress (Pie Chart)
+This chart illustrates the distribution of my learning across different Python and Data Science topics.
+
+![Pie Chart](./02_Data_Science_Basics/learning_pie_chart.png)
+
 ---
+
 *Created by **Pramod Wickramanayake***
