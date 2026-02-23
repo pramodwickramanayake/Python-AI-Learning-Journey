@@ -41,4 +41,11 @@ This chart illustrates the distribution of my learning across different Python a
 
 ---
 
+## 🌸 Project: Iris Flower Classification (Visualization)
+In this section, I explore the world-renowned Iris dataset. I've used Python and Matplotlib to visualize the relationship between Sepal dimensions across different flower species.
+
+![Iris Analysis](./02_Data_Science_Basics/iris_scatter_plot.png)
+
+---
+
 *Created by **Pramod Wickramanayake***
